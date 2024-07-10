@@ -1,5 +1,3 @@
-# Gdrive_uploader
-
 # CSV to Excel & Upload to Google Drive
 
 ## GDRIVE UPLOADER
